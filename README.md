@@ -252,13 +252,12 @@ Please follow the existing code style, add unit tests for new logic, and ensure 
 
 ## License
 
-MIT © <DarkZed>
-
+MIT © <AmirHaghbin7>
 ---
 
 ## Contact
 
-If you have questions or need help, contact: `your-email@example.com`.
+If you have questions or need help, contact: `amirhaghbin7@gmail.com`.
 
 ---
 
