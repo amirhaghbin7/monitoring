@@ -1,6 +1,6 @@
 ---
 
-# Monitoring Project
+Monitoring Project
 
 **A lightweight website monitoring tool with email notifications.**
 This project continuously checks a website's status and sends an email alert if it goes down. Logs are maintained for all checks.
