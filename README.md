@@ -144,6 +144,7 @@ Logging
 All monitoring logs are saved in logs/monitor.log with timestamps:
 
 [2025-09-14 03:00:00] [OK] `https://example.com` is up.
+
 [2025-09-14 03:00:30] [DOWN] `https://example.com` is down!
 
 ---
@@ -175,6 +176,6 @@ If you have any questions, suggestions, or need help:
 
 Email: `amirhaghbin7@gmail.com`
 
-Linkedin: `https://www.linkedin.com/in/amirhaghbin7`
+Linkedin: `linkedin.com/in/amirhaghbin7`
 
 ---
