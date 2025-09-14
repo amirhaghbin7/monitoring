@@ -178,4 +178,6 @@ Email: `amirhaghbin7@gmail.com`
 
 Linkedin: `linkedin.com/in/amirhaghbin7`
 
+Github: `github.com/amirhaghbin7`
+
 ---
